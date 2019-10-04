@@ -4198,7 +4198,7 @@ input[type="button"].btn-block {
     outline: 0;
     -webkit-box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
     box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5); }
-
+    
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
@@ -4208,12 +4208,18 @@ input[type="button"].btn-block {
   @media (min-width: 576px) {
     .jumbotron {
       padding: 4rem 2rem; } }
+
+.jumbotron1 {
+  padding: 0.5rem 0.5rem;
+  border-radius: 5rem;
+   }
+  
 .aligcenter{
   text-align: center;
   font-family: 'Trebuchet MS';
   font-size: 35px;
   background-color: #1566ad;
-  color: #b1dfbb;
+  color: #f2f7f3;
 }
 
 .jumbotron-fluid {
